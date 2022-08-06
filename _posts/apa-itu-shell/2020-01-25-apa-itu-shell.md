@@ -19,7 +19,7 @@ Jika kamu pernah menggunakan unix/linux mungkin pernah menggunakan program diata
 User<sup id="user">[[1]](#user-ref)</sup> tidak bisa secara langsung berkomunikasi dengan sebuah hardware komputer, maka dari itu kita membutuhkan sebuah sistem operasi; **Kernel** adalah program yang merupakan inti utama dari sistem operasi komputer.
 
 <figure>
-<img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
+<img src="/assets/img/kernel.png" alt="kernel central of operating system">
 <figcaption>Fig 2. bagan kernel.</figcaption>
 </figure>
 
