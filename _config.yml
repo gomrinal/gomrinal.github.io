@@ -24,7 +24,7 @@ author:
 
 # URL settings
 url: "https://www.github.com/gomrinal.github.io" #
-baseurl: /
+baseurl: gomrinal.github.io
 google_analytics: # leave it blank if not wish
 fb_appid:
 
